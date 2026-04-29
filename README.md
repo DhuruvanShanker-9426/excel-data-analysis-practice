@@ -58,4 +58,4 @@ To build a strong foundation in data analysis using Excel and prepare for Data A
 
 **Dhuruvan Shanker R**
 
-Aspiring Data Analyst | Future Data Scientist | AI/ML Enthusiast.
+**Aspiring Data Analyst | Future Data Scientist | AI/ML Enthusiast**.

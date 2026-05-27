@@ -15,7 +15,7 @@ The goal of this repository is to improve my proficiency in Excel functions, dat
 * 📚 Bookshop Dataset
 * 🎮 Video Game Sales Dataset
 * 🏅 Olympics Dataset
-* 📈 General Sales Data
+* 📈 General Sales Data.
 
 ---
 
@@ -27,7 +27,7 @@ The goal of this repository is to improve my proficiency in Excel functions, dat
 * Pivot Tables
 * Basic Data Analysis
 * Excel Functions (e.g., IF, VLOOKUP, COUNTIF, SUMIF, etc.)
-* Introduction to DAX (for Power BI learning)
+* Introduction to DAX (for Power BI learning).
 
 ---
 

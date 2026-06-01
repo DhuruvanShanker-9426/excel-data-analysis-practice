@@ -35,7 +35,7 @@ The goal of this repository is to improve my proficiency in Excel functions, dat
 
 * Daily Excel practice to maintain consistency
 * Working with different datasets to understand real-world scenarios
-* Improving problem-solving skills using Excel
+* Improving problem-solving skills using Excel.
 
 ---
 

@@ -50,7 +50,7 @@ To build a strong foundation in data analysis using Excel and prepare for Data A
 * Add more structured problem-solving files
 * Include dashboards using Excel
 * Connect Excel work with Power BI projects
-* Add explanations for each dataset
+* Add explanations for each dataset.
 
 ---
 
